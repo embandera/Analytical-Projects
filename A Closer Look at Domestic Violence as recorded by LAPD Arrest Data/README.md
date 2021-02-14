@@ -1,4 +1,4 @@
-# A-Closer-Look-at-Domestic-Violence-as-Recorded-by-LAPD-Arrest-Data-Python
+# A Closer Look at Domestic Violence as Recorded by LAPD Arrest Data Python
 
 #### Summary 
 This exploratory data analysis takes a closer look at DV-related data elements that are recorded in LAPD Arrest Data (January 1, 2010 to August 31, 2020) specifically on arrests categorized as "Against Family/Child". These types of arrests are labeled as FCDV-related arrests in this report. It is important to note that other arrest categories (I.e., Rape) may also be considered DV-related arrests. This EDA is part of an effort towards creating public health resources and educational information for residents of the City of Los Angeles. 
