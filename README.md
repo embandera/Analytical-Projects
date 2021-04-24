@@ -1,6 +1,6 @@
 # Data Analysis
 
-## A list of projects I've completed in the past year: 
+## A list of data notebooks I've completed in the past year: 
 - [A Closer Look at Domestic Violence as recorded by LAPD Arrest Data](https://github.com/embandera/Data-Analysis-Python/tree/main/A%20Closer%20Look%20at%20Domestic%20Violence%20as%20recorded%20by%20LAPD%20Arrest%20Data)
 - [Analyzing Company Revenue Data for Marketing](https://github.com/embandera/Data-Analysis-Python/tree/main/Analyzing%20Company%20Revenue%20Data%20for%20Marketing)
 - [Defining Parameters and Detecting Outliers](https://github.com/embandera/Data-Analysis-Python/tree/main/Defining%20Parameters%20and%20Detecting%20Outliers)
