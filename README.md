@@ -8,3 +8,6 @@
 - [Leveraging NLP to Classify Reviews as Positive or Negative](https://github.com/embandera/Data-Analysis-Python/tree/main/Leveraging%20NLP%20to%20Classify%20Reviews%20as%20Positive%20or%20Negative)
 - [Mining LinkedIn Data](https://github.com/embandera/Data-Analysis-Python/tree/main/Mining%20LinkedIn%20Data)
 - [Mining User Data to Create an Index Score](https://github.com/embandera/Data-Analysis-Python/tree/main/Mining%20User%20Data%20to%20Create%20an%20Index%20Score)
+- [Rise and Fall of Programming Languages]
+- [Education Department of California]
+- [UFC Analysis]
