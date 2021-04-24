@@ -12,6 +12,12 @@
 - [Education Department of California]
 - [UFC Analysis]
 
+## Machine Learning 
+- [Leveraging NLP to Classify Reviews as Positive or Negative](https://github.com/embandera/Data-Analysis-Python/tree/main/Leveraging%20NLP%20to%20Classify%20Reviews%20as%20Positive%20or%20Negative)
+- [Mining for Gold]
+- [Bootstrapping and Linear Regression to Predict Revenue] 
+- [Predicting Churn]
+
 ## Data Challenges: 
 - [Education Department of California]
 
