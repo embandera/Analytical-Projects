@@ -19,5 +19,4 @@
 - [Predicting Churn]
 
 ## Data Challenges: 
-- [Education Department of California]
-
+- 
